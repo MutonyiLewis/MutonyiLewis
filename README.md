@@ -18,5 +18,5 @@ As an innovative and results-driven Software Engineer, I am passionate about cre
 - ⚡ Fun fact: I'm Batman ㊙️🙊
 
 ## My Github Trophies 😃
-[![My github trophies😃](https://github-profile-trophy.vercel.app/?username=MutonyiLewis&columns=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![My github trophies😃](https://github-profile-trophy.vercel.app/?username=MutonyiLewis&column=3&theme=matrix&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
