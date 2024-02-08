@@ -2,10 +2,11 @@
 
 As an innovative and results-driven Software Engineer, I am passionate about creating practical solutions for real-world challenges. Proficient in the entire software development lifecycle and project documentation, my strengths lie in meticulous design and delivering high-quality, user-centric software products on various platforms.
 
+
 <!--
 **MutonyiLewis/MutonyiLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on skiies web application for @skiies.studios online shop 
 - 🌱 I’m currently learning Data analysis
