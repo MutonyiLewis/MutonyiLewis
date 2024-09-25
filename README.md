@@ -43,7 +43,7 @@
   <h3>🎡Will Learn🎡</h3>
     <img src="https://skillicons.dev/icons?i=c,dotnet,java">
   <h3>Forums</h3>
-    <a href="https://huggingface.co/mutonyilewis/" target="_blank" rel="noopener">
+    <a href="https://huggingface.co/mutonyilewis/" target="_blank" rel="noopener noreferrer">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" > 
     </a>
     <a href="https://stackoverflow.com/users/19546984/lewis-mutonyi">
