@@ -17,21 +17,44 @@ As an innovative and results-driven Software Engineer, I am passionate about cre
 - 😄 Pronouns: He's/HIM
 - ⚡ Fun fact: I'm Batman ㊙️🙊
 
-## My Github Trophies   
+##
+<div align=center> 
+  <h2>💖Stats💖</h2>
+  <img height=150px src="https://streak-stats.demolab.com?user=mutonyilewis&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mutonyilewis&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mutonyilewis&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mutonyilewis&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mutonyilewis&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mutonyilewis&theme=algolia">
+</div>
 
-[![My github trophies😃](https://github-profile-trophy.vercel.app/?username=MutonyiLewis&column=3&theme=matrix&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+##  
+<div align=center>
+  <h2>My Github Trophies 😃</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=MutonyiLewis&column=3&theme=matrix&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)">
+</div>
 
-## Stats
-![MutonyiLewis github stats](https://github-readme-stats.vercel.app/api?username=MutonyiLewis&show_icons=true&hide_border=true)
 
-## Tools of trade!!
-# DBs
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-## Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-## Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-## Forums
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-## Tools
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PIP](https://img.shields.io/badge/PIP-%23CB3837.svg?style=for-the-badge&logo=pip&logoColor=white) 
+
+# Tools of trade!!
+<div align=center>
+  <h3>💎Programing Langs💎</h3>
+    <img src="https://skillicons.dev/icons?i=python,html,js,css,vite,nodejs,express,php,react, django, jupyter">
+  <h3>🧶Databases🧶</h3>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+  <h3>🏏Tools🏏</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino, docker, netlify, figma">
+  <h3>🎡Will Learn🎡</h3>
+    <img src="https://skillicons.dev/icons?i=c,dotnet,java">
+  <h3>Forums</h3>
+    <a href="https://huggingface.co/spaces/mutonyilewis/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" > 
+    </a>
+    <a href="https://stackoverflow.com/users/19546984/lewis-mutonyi">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow">
+    </a>
+    <a href="https://www.kaggle.com/lewismutonyi">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" > 
+    </a>
+</div>
+
