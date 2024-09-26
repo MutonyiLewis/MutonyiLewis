@@ -13,6 +13,12 @@
 - 📫 How to reach me: mutonyilewis@gmail.com
 - ⚡ Fun fact: I'm Batman ㊙️🙊
 
+[![](https://visitcount.itsvg.in/api?id=mutonyilewis&icon=&color=0)](http://www.github.com/mutonyilewis)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
 ##
 <div align=center> 
   <h2>💖Stats💖</h2>
