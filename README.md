@@ -41,11 +41,13 @@
 # Tools of trade!!
 <div align=center>
   <h3>💎Programing Langs💎</h3>
-    <img src="https://skillicons.dev/icons?i=python,html,js,css,vite,nodejs,express,php,react, django, jupyter">
+    <img src="https://skillicons.dev/icons?i=js,python,php,java,html,css,cpp,latex">
+  <h3>🍇Frameworks & Libraries🍇</h3>
+    <img src="https://skillicons.dev/icons?i=react,django,express,vite,nodejs,tensorflow">
   <h3>🧶Databases🧶</h3>
-   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite">
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase">
   <h3>🏏Tools🏏</h3>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino, docker, netlify, figma">
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,arduino,docker,netlify,figma">
   <h3>🎡Will Learn🎡</h3>
     <img src="https://skillicons.dev/icons?i=c,dotnet,java">
   <h3>Forums</h3>
