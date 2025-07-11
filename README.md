@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on impactful tech solutions. 
 - 💬 Ask me about Machine Learning, React JS, PHP, REST Apis 
 - 📫 How to reach me: mutonyilewis@gmail.com
-- ⚡ Fun fact: I'm Batman ㊙️🙊
+- ⚡ Fun fact: I'm 🕷️ man.
 
 [![](https://visitcount.itsvg.in/api?id=mutonyilewis&icon=&color=0)](http://www.github.com/mutonyilewis)
 
