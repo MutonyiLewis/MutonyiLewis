@@ -5,10 +5,9 @@
 -->
 
 
-- 🔭 I’m currently working on teleafia & asset app
-- 🌱 Learning Network and cloud security
+- 🔭 I’m currently working on Mes-project & asset app
+- 🌱 Certified in Network and cloud security
 - 👯 Looking to collaborate on impactful tech solutions. 
-- 🤔 Looking for help with learning dotnet for Windows programming. 
 - 💬 Ask me about Machine Learning, React JS, PHP, REST Apis 
 - 📫 How to reach me: mutonyilewis@gmail.com
 - ⚡ Fun fact: I'm Batman ㊙️🙊
